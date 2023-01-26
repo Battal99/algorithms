@@ -1,0 +1,9 @@
+5 A
+A B C N F
+A B
+B C
+B N
+N F
+N C
+C F
+F C
